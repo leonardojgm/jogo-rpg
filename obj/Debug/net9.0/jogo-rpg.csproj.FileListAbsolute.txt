@@ -1,0 +1,14 @@
+E:\Textos\Estudos\Cursos\Dio\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\jogo-rpg\bin\Debug\net9.0\jogo-rpg.exe
+E:\Textos\Estudos\Cursos\Dio\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\jogo-rpg\bin\Debug\net9.0\jogo-rpg.deps.json
+E:\Textos\Estudos\Cursos\Dio\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\jogo-rpg\bin\Debug\net9.0\jogo-rpg.runtimeconfig.json
+E:\Textos\Estudos\Cursos\Dio\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\jogo-rpg\bin\Debug\net9.0\jogo-rpg.dll
+E:\Textos\Estudos\Cursos\Dio\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\jogo-rpg\bin\Debug\net9.0\jogo-rpg.pdb
+E:\Textos\Estudos\Cursos\Dio\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\jogo-rpg\obj\Debug\net9.0\jogo-rpg.GeneratedMSBuildEditorConfig.editorconfig
+E:\Textos\Estudos\Cursos\Dio\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\jogo-rpg\obj\Debug\net9.0\jogo-rpg.AssemblyInfoInputs.cache
+E:\Textos\Estudos\Cursos\Dio\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\jogo-rpg\obj\Debug\net9.0\jogo-rpg.AssemblyInfo.cs
+E:\Textos\Estudos\Cursos\Dio\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\jogo-rpg\obj\Debug\net9.0\jogo-rpg.csproj.CoreCompileInputs.cache
+E:\Textos\Estudos\Cursos\Dio\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\jogo-rpg\obj\Debug\net9.0\jogo-rpg.dll
+E:\Textos\Estudos\Cursos\Dio\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\jogo-rpg\obj\Debug\net9.0\refint\jogo-rpg.dll
+E:\Textos\Estudos\Cursos\Dio\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\jogo-rpg\obj\Debug\net9.0\jogo-rpg.pdb
+E:\Textos\Estudos\Cursos\Dio\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\jogo-rpg\obj\Debug\net9.0\jogo-rpg.genruntimeconfig.cache
+E:\Textos\Estudos\Cursos\Dio\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\jogo-rpg\obj\Debug\net9.0\ref\jogo-rpg.dll
